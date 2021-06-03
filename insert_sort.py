@@ -12,3 +12,4 @@ if __name__=='__main__':
     arr = [12,343,545,3,34,5,67]
     insert_sort(arr)
     print(arr)
+
